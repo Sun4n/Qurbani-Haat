@@ -11,8 +11,8 @@ export default function Home() {
     <div>
       <Banner></Banner>
       <h2 className="text-2xl font-bold mt-4">Feature Cow</h2>
-      <div className="grid grid-cols-4 gap-10 my-5">
-
+      <div className="grid grid-cols-1 md:grid-cols-4 gap-10 my-5">
+ 
 
         {
           animals.slice(0, 4).map(animal => {

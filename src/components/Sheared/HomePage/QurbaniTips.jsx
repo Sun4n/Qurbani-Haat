@@ -2,7 +2,7 @@ import React from 'react';
 
 const QurbaniTips = () => {
     return (
-        <div className="grid grid-cols-3 gap-4 my-10 ">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4 my-10 ">
 
             <div className="card bg-base-100 w-fit shadow-xl ">
                 <div className="card-body">
