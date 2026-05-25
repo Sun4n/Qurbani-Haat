@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Deshi Shahi Cow",
+    "type": "Cow",
+    "breed": "Local Deshi",
+    "price": 120000,
+    "weight": 280,
+    "age": 3,
+    "location": "Bogura",
+    "description": "Healthy deshi cow suitable for Qurbani. Well fed with natural খাবার.",
+    "image": "https://images.unsplash.com/photo-1595365691689-6b7b4e1970cf?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": "Large Animal"
+  },
+  {
+    "id": 2,
+    "name": "Australian Friesian Cow",
+    "type": "Cow",
+    "breed": "Friesian",
+    "price": 185000,
+    "weight": 420,
+    "age": 4,
+    "location": "Dhaka",
+    "description": "Big and healthy Friesian cow raised with premium feed and proper care.",
+    "image": "https://https://images.unsplash.com/photo-1595365691689-6b7b4e1970cf?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": "Large Animal"
+  },
+  {
+    "id": 3,
+    "name": "Black Bengal Goat",
+    "type": "Goat",
+    "breed": "Black Bengal",
+    "price": 35000,
+    "weight": 45,
+    "age": 2,
+    "location": "Rajshahi",
+    "description": "Popular Black Bengal goat with strong health and excellent meat quality.",
+    "image": "https://plus.unsplash.com/premium_photo-1691030658378-acdaab929bed?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": "Small Animal"
+  },
+  {
+    "id": 4,
+    "name": "Jamunapari Goat",
+    "type": "Goat",
+    "breed": "Jamunapari",
+    "price": 48000,
+    "weight": 60,
+    "age": 3,
+    "location": "Khulna",
+    "description": "Tall and attractive Jamunapari goat ideal for Eid-ul-Adha Qurbani.",
+    "image": "https://plus.unsplash.com/premium_photo-1691030658378-acdaab929bed?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": "Small Animal"
+  },
+  {
+    "id": 5,
+    "name": "Sahiwal Premium Cow",
+    "type": "Cow",
+    "breed": "Sahiwal",
+    "price": 210000,
+    "weight": 500,
+    "age": 5,
+    "location": "Chattogram",
+    "description": "https://images.unsplash.com/photo-1595365691689-6b7b4e1970cf?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image": "https://i.ibb.co/3N8W0tS/cow3.jpg",
+    "category": "Premium Animal"
+  },
+  {
+    "id": 6,
+    "name": "Hybrid White Goat",
+    "type": "Goat",
+    "breed": "Hybrid",
+    "price": 42000,
+    "weight": 52,
+    "age": 2,
+    "location": "Sylhet",
+    "description": "Healthy hybrid white goat raised naturally and suitable for family Qurbani.",
+    "image": "https://plus.unsplash.com/premium_photo-1691030658378-acdaab929bed?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": "Medium Animal"
+  }
+]
