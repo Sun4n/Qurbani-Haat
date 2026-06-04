@@ -4,20 +4,20 @@ import { FaFacebook, FaInstagramSquare, FaPhone, FaTwitter } from 'react-icons/f
 
 const Footer = () => {
     return (
-        <div className=' bg-[#7ea079] text-white'>
-            <div className='container mx-auto flex justify-between items-center px-6 py-8'>
+        <div className=' bg-[#7ea079] text-white w-[100%]'>
+            <div className='container mx-auto flex md:flex-row flex-col justify-between items-center px-6 py-8 '>
                 <div className='space-y-3'>
-                    <h2 className='text-[30px] font-bold'>About</h2>
-                    <p  className='text-[1rem] font-medium w-[400px]'>We are here to serve you very beautiful cows
+                    <h2 className='text-[30px] font-bold md:text-left text-center'>About</h2>
+                    <p className='text-sm md:text-[1rem] font-medium md:w-[400px] md:mb-0 mb-4'>We are here to serve you very beautiful cows
                         Our cows imported from India
                         As well as we offer Deshi Goru</p>
                 </div>
                 <div className='space-y-3'>
                     <h2 className='text-[30px] font-bold'>Social links</h2>
-                    <div className='flex items-center justify-center gap-3 text-xl'>
-                    <FaFacebook />
-                    <FaInstagramSquare />
-                    <FaTwitter />
+                    <div className='flex items-center justify-center gap-3 text-xl md:mb-0 mb-4'>
+                        <FaFacebook />
+                        <FaInstagramSquare />
+                        <FaTwitter />
 
                     </div>
                 </div>

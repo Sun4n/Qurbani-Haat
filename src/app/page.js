@@ -25,7 +25,7 @@ export default function Home() {
                 <p className='text-[16px] mb-0'>{animal.description}</p>
                 <p className='text-[16px] '>Weight: {animal.weight}kg</p>
                 <div className="card-actions justify-end">
-                  <Link href={`/animal/01`}>
+                  <Link href={`/animal/${animal.id}`}>
                     <button className="btn btn-primary">See detail</button>
                   </Link>
                 </div>

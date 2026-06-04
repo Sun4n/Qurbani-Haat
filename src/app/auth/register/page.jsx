@@ -23,7 +23,7 @@ const RegisterPage =  () => {
             alert(error.message)
         }
         if (res) {
-            alert(res.message)
+            alert('SingUp Successfully')
         }
     }
     return (
