@@ -13,7 +13,7 @@ const Banner = () => {
                 className='w-[100%] h-[545px] rounded-md mt-6'
             />
             <Link href={'/animal'}>
-                <button className='btn absolute top-90 right-90 px-10 bg-[#7ea079] text-white font-bold shadow-none border-none text-[16px]'>All Cow</button>
+                <button className='btn absolute right-10 top-90 md:right-90 px-10 bg-[#7ea079] text-white font-bold shadow-none border-none text-[16px]'>All Cow</button>
             </Link>
         </div>
     );
