@@ -19,15 +19,15 @@ Live Link:https://qurbani-haat-git-main-kazisunan68-7530s-projects.vercel.app/
 
 # Key Features
 
-- Banner– Eye-catching hero with a "Browse All Cows" CTA button
+- Banner - Eye-catching hero with a "Browse All Cows" CTA button
 
--Featured Cows – Grid of featured livestock with images, breed name, size category, and View Details button
+- Featured Cows – Grid of featured livestock with images, breed name, size category, and View Details button
 
--Auth Pages – Login and Register pages accessible from the navbar
+- Auth Pages – Login and Register pages accessible from the navbar
 
--All Animals Page – Full listing of available livestock
+- All Animals Page – Full listing of available livestock
 
--Footer – About info, social links, and contact details
+- Footer – About info, social links, and contact details
 
 #  NPM Packages Used
 
