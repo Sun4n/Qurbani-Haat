@@ -12,11 +12,10 @@ const AllAnimalPage = () => {
             <div className='grid grid-cols-1 md:grid-cols-3 gap-4'>
 
 
-                <Suspense fallback={<span className="loading loading-dots loading-xl"></span>}>
-                    {
-                        animals.map(animal => <AnimalCard key={animal.id} animal={animal}></AnimalCard>)
-                    }
-                </Suspense>
+                {
+                    animals.map(animal => <AnimalCard key={animal.id} animal={animal}></AnimalCard>)
+                }
+
 
             </div>
         </>

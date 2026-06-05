@@ -31,10 +31,10 @@ Live Link:https://qurbani-haat-git-main-kazisunan68-7530s-projects.vercel.app/
 
 #  NPM Packages Used
 
--npm install react-router-dom
+-npm install mongodb
 
--npm install @heroui/react
+-npm install better-auth
 
--npm install react-icons
+-npm install @better-auth/mongo-adapter
 
--npm install animate.css
+
